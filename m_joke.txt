@@ -1,0 +1,2 @@
+computer : press ANY key to start 
+me : Where is the ANY key ?
